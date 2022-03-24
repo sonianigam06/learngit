@@ -1,2 +1,2 @@
 # learngit
-Learning Git Basics
+Learning Git Basics for practice
